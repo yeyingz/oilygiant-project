@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# .ipynb_checkpoints
+.ipynb_checkpoints/
+# .DS_Store
+.DS_Store
+# archivos png
+*.png
+# archivos csv
+# *.csv 
+# En este caso los dejaremos para que se puedan revisar los resultados

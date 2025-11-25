@@ -1,4 +1,6 @@
-# OilyGiant: Predicción de Ubicaciones para Perforación de Pozos Petroleros
+# OilyGiant: Optimización de Inversión ($100M) mediante Machine Learning y Bootstrapping
+
+¿El problema? Invertir 100 millones de USD en nuevos pozos petroleros donde los promedios sugieren pérdidas. ¿La solución? Un modelo predictivo (RMSE 0.89) combinado con análisis de riesgo (Bootstrapping) que transformó una inversión de alto riesgo en una estrategia con un 98.5% de probabilidad de beneficio.
 
 ## Descripción del Proyecto
 
